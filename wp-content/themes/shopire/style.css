@@ -1,0 +1,41 @@
+/*
+Theme Name: 	   Shopire
+Text Domain: 	   shopire
+Version:            1.0.1
+Tested up to:       6.7
+Requires at least:  4.7
+Requires PHP:       5.6
+Author:             WPFable
+Author URI:         https://wpfable.com/
+Theme URI:          https://wpfable.com/themes/shopire-free/
+Description:        Shopire is a fast, clean, lightweight theme. Shopire is customizable and modern-looking free responsive WooCommerce WordPress theme for e-commerce stores like clothing, fashion, electronics, ebooks, dress store, sports shop, marketplace, multivendor, equipments or online products. Theme is compatible with Elementor, WPML, Polylang, Yoast SEO, WooCommerce, Contact Form 7, Jetpack and other popular plugins. The theme is SEO friendly, WPML and RTL ready. Looking for a WooCommerce theme? Look no further! Shopire Pro demo https://demos.wpfable.com/premium/shopire/
+Tags:               one-column, two-columns ,right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
+License: GPLv3 or later
+License URI:  https://www.gnu.org/licenses/gpl-3.0.html
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+ */
+ 
+.iconbox:hover a {
+    color: #fff;
+}
+
+.iconbox a {
+    text-decoration: none;
+	color: var(--wf-secondary-color);
+}
+
+.wp-block-details summary {
+    font-weight: 600;
+    padding: 10px;
+}
+
+.wp-block-latest-comments__comment a {
+    text-decoration: none;
+}
+
+.wp-block-verse {
+    padding: 10px;
+}
